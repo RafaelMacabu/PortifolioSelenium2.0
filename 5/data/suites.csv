@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue May 21 01:10:56 GMT 2024","Tue May 21 01:11:30 GMT 2024","33835","Testes do CHROME","Chrome","br.com.oticasdiniz.runners.TestNGRunner","br.com.oticasdiniz.runners.TestNGRunner","scenario","Runs Cucumber Scenarios",""
+"passed","Tue May 21 01:11:58 GMT 2024","Tue May 21 01:12:12 GMT 2024","14454","","Cenarios de teste da página home","","Achando a loja mais perto de um local","","Achando a loja mais perto de um local",""
+"passed","Tue May 21 01:11:30 GMT 2024","Tue May 21 01:11:58 GMT 2024","28113","Testes do CHROME","Chrome","br.com.oticasdiniz.runners.TestNGRunner","br.com.oticasdiniz.runners.TestNGRunner","scenario","Runs Cucumber Scenarios",""
+"passed","Tue May 21 01:11:58 GMT 2024","Tue May 21 01:12:12 GMT 2024","14461","Testes do CHROME","Chrome","br.com.oticasdiniz.runners.TestNGRunner","br.com.oticasdiniz.runners.TestNGRunner","scenario","Runs Cucumber Scenarios",""
+"passed","Tue May 21 01:11:30 GMT 2024","Tue May 21 01:11:58 GMT 2024","28104","","Cenarios de teste da página de carrinho","","Adicionando um produto ao carrinho com sucesso pelos hovers","","Adicionando um produto ao carrinho com sucesso pelos hovers",""
+"passed","Tue May 21 01:10:56 GMT 2024","Tue May 21 01:11:30 GMT 2024","33599","","Cenarios de teste da página de carrinho","","Adicionando um produto ao carrinho com sucesso pela barra de busca","","Adicionando um produto ao carrinho com sucesso pela barra de busca",""
