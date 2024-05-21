@@ -1,6 +1,6 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
 
-<suite name="Testes do CHROME" verbose="1" >
+<suite name="Testes do CHROMEE" verbose="1" >
     <test name="Testes no Chrome" verbose = "1">
         <parameter name="browser" value="CHROME"/>
         <classes>
