@@ -46,7 +46,6 @@ public class BasePage {
                     .click()
                     .perform();
         } catch (WebDriverException e) {
-            System.out.println("INTERAGIU COM JAVASCRIPT");
             ((JavascriptExecutor) getDriver()).executeScript("arguments[0].click();", element);
         } catch (Exception e) {
             Assert.fail();

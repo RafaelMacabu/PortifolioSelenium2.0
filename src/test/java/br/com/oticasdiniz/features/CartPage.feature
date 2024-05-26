@@ -10,7 +10,7 @@ Funcionalidade: Cenarios de teste da página de carrinho
     Dado que estou na página inicial
     E inserir no campo de busca "Lacoste"
     E clicar no primeiro resultado da busca
-    E inserir o CEP "28010272"
+    E inserir o CEP "28010171"
     Quando clicar no botão comprar
     E selecionar o a opção de sem grau e confirmar
     Entao o produto será adicionado ao carrinho
@@ -22,7 +22,7 @@ Funcionalidade: Cenarios de teste da página de carrinho
     E passo o mouse por cima de Óculos de Grau
     E clicar na opção Emporio Armani
     E clicar no primeiro resultado da busca
-    E inserir o CEP "28010272"
+    E inserir o CEP "28010171"
     Quando clicar no botão comprar
     E selecionar o a opção de sem grau e confirmar
     Entao o produto será adicionado ao carrinho
