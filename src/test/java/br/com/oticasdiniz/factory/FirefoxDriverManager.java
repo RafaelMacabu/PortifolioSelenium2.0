@@ -10,6 +10,7 @@ public class FirefoxDriverManager implements DriverManager {
     public WebDriver createDriver() {
         WebDriverManager.firefoxdriver().setup();
         FirefoxOptions options = new FirefoxOptions();
+        options.addArguments("--headless");
         WebDriver driver = new FirefoxDriver(options);
         return driver;
     }
