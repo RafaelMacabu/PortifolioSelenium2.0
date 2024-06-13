@@ -64,6 +64,7 @@ public class ProductPage extends BasePage {
 
     public CartPage clickNoDegree(){
         if (verifyIfElementIsPresent(checkIfGlassesHasDegree)){
+            System.out.println("CHEGOU NO TRUE TEM GRAU");
             super.clickElement(optionWithoutDegree);
             super.clickElement(addToBagIfPrompted);
         }
